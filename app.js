@@ -1,5 +1,5 @@
 let listaGenerica = ["js","c","c++","kotlin","py;"];
-listaGenerica.push("java", "Ruby","GoLang" );
+listaGenerica.push("jasva", "Ruby","GoLang" );
 console.log(listaGenerica);
 
 let listNome = ["joao", "rafa", "anita"];
